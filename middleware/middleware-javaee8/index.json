@@ -29,8 +29,8 @@
             }
         ],
         "intro": {
-            "courseData": "run-init.sh",
-            "code": "set-env.sh",
+            "courseData": "set-env.sh",
+            "code": "run-init.sh",
             "text": "00-intro.md"
         },
         "finish": {
